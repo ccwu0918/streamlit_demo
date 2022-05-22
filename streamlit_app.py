@@ -6,7 +6,7 @@ import pandas as pd
 
 # 網頁配置設定(要寫在所有 Streamlit 命令之前，而且只能設定一次)
 st.set_page_config(
-    page_title="自定義網頁標題",
+    page_title="自定義Streamlit網頁標題",
     page_icon="random",
     layout="centered",
     initial_sidebar_state="collapsed",
@@ -14,7 +14,7 @@ st.set_page_config(
 
 
 # 加入標題
-st.title('我的第一個應用程式')
+st.title('我的第一個Streamlit應用程式')
 
 
 # 使用 Magic commands 指令，顯示 Markdown
