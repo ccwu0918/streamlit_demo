@@ -92,6 +92,10 @@ st.write("結果：", result)
 
 
 # 更多元件請參考官方說明：https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
+
+# Streamlit 超快速又輕鬆建立網頁 Dashboard
+
+# https://blog.jiatool.com/posts/streamlit/
 # st.title('My title')
 # st.header('My header')
 # st.subheader('My sub')
